@@ -51,22 +51,22 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C?
+L Device:C C1
 U 1 1 5FC28BF4
 P 1150 3050
-F 0 "C?" H 1265 3096 50  0000 L CNN
-F 1 "C" H 1265 3005 50  0000 L CNN
+F 0 "C1" H 1265 3096 50  0000 L CNN
+F 1 "100nF" H 1265 3005 50  0000 L CNN
 F 2 "" H 1188 2900 50  0001 C CNN
 F 3 "~" H 1150 3050 50  0001 C CNN
 	1    1150 3050
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP C?
+L Device:CP C2
 U 1 1 5FC292D1
 P 2050 3050
-F 0 "C?" H 2168 3096 50  0000 L CNN
-F 1 "CP" H 2168 3005 50  0000 L CNN
+F 0 "C2" H 2168 3096 50  0000 L CNN
+F 1 "10uF" H 2168 3005 50  0000 L CNN
 F 2 "" H 2088 2900 50  0001 C CNN
 F 3 "~" H 2050 3050 50  0001 C CNN
 	1    2050 3050

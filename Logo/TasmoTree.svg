@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ebene_1"
+   data-name="Ebene 1"
+   viewBox="0 0 230 385.00001"
+   version="1.1"
+   sodipodi:docname="TasmoTree.svg"
+   width="230"
+   height="385"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zeichenfläche 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="1.158914"
+     inkscape:cx="218.19239"
+     inkscape:cy="185.27178"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#010101;}</style>
+  </defs>
+  <title
+     id="title6">Zeichenfläche 1</title>
+  <polygon
+     class="cls-1"
+     points="44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 129.62,29.87 "
+     id="polygon8"
+     transform="translate(-14.615,175.32765)" />
+  <path
+     class="cls-1"
+     d="m 114.74698,265.32766 a 52.6,52.6 0 0 0 -18.739997,101.76 v -15.18 a 38.8,38.8 0 0 1 11.859997,-72.21 v 95.89 h 13.77 v -95.89 a 38.8,38.8 0 0 1 11.86,72.21 v 15.13 a 52.6,52.6 0 0 0 -18.75,-101.71 z"
+     id="path10" />
+  <polygon
+     class="cls-1"
+     points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
+     id="polygon8-3"
+     style="fill:#010101"
+     transform="translate(-14.615,140.41899)" />
+  <polygon
+     class="cls-1"
+     points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
+     id="polygon8-6"
+     style="fill:#010101"
+     transform="translate(-14.615,105.51033)" />
+  <polygon
+     class="cls-1"
+     points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
+     id="polygon8-7"
+     style="fill:#010101"
+     transform="translate(-14.615,70.601671)" />
+  <polygon
+     class="cls-1"
+     points="214.81,115.07 129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 "
+     id="polygon8-5"
+     style="fill:#010101"
+     transform="translate(-14.615,35.693011)" />
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;stroke-width:0"
+     id="path887"
+     sodipodi:sides="5"
+     sodipodi:cx="114.39929"
+     sodipodi:cy="46.846123"
+     sodipodi:r1="37.453381"
+     sodipodi:r2="10.437201"
+     sodipodi:arg1="-0.34650942"
+     sodipodi:arg2="0.24784554"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     inkscape:transform-center-x="0.37434669"
+     inkscape:transform-center-y="-3.2185836"
+     d="M 149.62659,34.126327 124.51757,49.406534 137.38237,76.418641 115.09091,57.260383 93.376318,77.84274 104.70847,50.722078 78.423301,36.430568 l 29.295109,2.396767 5.46947,-29.4149965 6.77323,28.6019455 z" />
+</svg>

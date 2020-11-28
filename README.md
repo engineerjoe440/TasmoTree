@@ -1,4 +1,4 @@
-# TasmoTree <img src="https://raw.githubusercontent.com/engineerjoe440/TasmoTree/master/Logo/TasmoTree.svg" width="100" alt="logo" align="right">
+# TasmoTree <img src="https://raw.githubusercontent.com/engineerjoe440/TasmoTree/main/Logo/TasmoTree.svg" width="100" alt="logo" align="right">
 *PCB Layout for Tasmota Controlled (ESP32) Christmas Tree Miniature Village Display*
 
 ### Summary:

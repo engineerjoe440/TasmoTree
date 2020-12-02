@@ -170,19 +170,6 @@ Text Label 950  1650 0    30   ~ 0
 12V
 Text Label 1150 1650 0    30   ~ 0
 32V
-$Comp
-L TasmoTree-rescue:ESP8266-DEVKIT U1
-U 1 1 5FC1B5D0
-P 3500 3200
-F 0 "U1" H 3500 4367 50  0000 C CNN
-F 1 "ESP8266" H 3500 4276 50  0000 C CNN
-F 2 "MODULE_ESP32-DEVKITC-32D" H 3500 3200 50  0001 L BNN
-F 3 "" H 3500 3200 50  0001 L BNN
-F 4 "4" H 3500 3200 50  0001 L BNN "PARTREV"
-F 5 "Espressif Systems" H 3500 3200 50  0001 L BNN "MANUFACTURER"
-	1    3500 3200
-	1    0    0    -1  
-$EndComp
 Connection ~ 5850 6300
 Wire Wire Line
 	5850 6300 5850 5850
@@ -402,11 +389,7 @@ Connection ~ 3350 7300
 Wire Wire Line
 	3350 7300 4500 7300
 Wire Wire Line
-	4300 2400 4950 2400
-Wire Wire Line
-	4950 2400 4950 5950
-Wire Wire Line
-	4950 5950 4300 5950
+	5250 2400 5250 5950
 Wire Wire Line
 	4300 5950 4300 6700
 Wire Wire Line
@@ -428,10 +411,8 @@ F 3 "~" H 4000 5550 50  0001 C CNN
 	1    4000 5550
 	1    0    0    -1  
 $EndComp
-Text GLabel 3800 5250 1    50   Input ~ 0
+Text GLabel 3800 5300 1    50   Input ~ 0
 12VP
-Wire Wire Line
-	3800 5450 3800 5250
 Wire Wire Line
 	3800 5550 3350 5550
 Wire Wire Line
@@ -495,7 +476,7 @@ Wire Wire Line
 Wire Wire Line
 	7050 1350 7050 2550
 Wire Wire Line
-	4300 3700 4750 3700
+	4300 3700 4700 3700
 Wire Wire Line
 	4750 3700 4750 2800
 Wire Wire Line
@@ -521,9 +502,118 @@ NoConn ~ 2700 3100
 NoConn ~ 2700 3400
 NoConn ~ 2700 3500
 NoConn ~ 2700 3700
-NoConn ~ 4300 3300
-NoConn ~ 4300 3200
-NoConn ~ 4300 3000
 NoConn ~ 4300 2700
 NoConn ~ 4300 2600
+$Comp
+L Device:Rotary_Encoder_Switch SW1
+U 1 1 5FD20C7F
+P 4600 5000
+F 0 "SW1" H 4600 5367 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 4600 5276 50  0000 C CNN
+F 2 "" H 4450 5160 50  0001 C CNN
+F 3 "~" H 4600 5260 50  0001 C CNN
+	1    4600 5000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 5950 5250 5950
+Wire Wire Line
+	4300 2400 5250 2400
+Wire Wire Line
+	5200 4900 5200 3200
+$Comp
+L TasmoTree-rescue:ESP8266-DEVKIT U1
+U 1 1 5FC1B5D0
+P 3500 3200
+F 0 "U1" H 3500 4367 50  0000 C CNN
+F 1 "ESP8266" H 3500 4276 50  0000 C CNN
+F 2 "MODULE_ESP32-DEVKITC-32D" H 3500 3200 50  0001 L BNN
+F 3 "" H 3500 3200 50  0001 L BNN
+F 4 "4" H 3500 3200 50  0001 L BNN "PARTREV"
+F 5 "Espressif Systems" H 3500 3200 50  0001 L BNN "MANUFACTURER"
+	1    3500 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 3000 4550 3000
+Wire Wire Line
+	4550 4400 4050 4400
+Wire Wire Line
+	4050 4400 4050 4900
+Wire Wire Line
+	4050 4900 4300 4900
+Wire Wire Line
+	4300 5100 4100 5100
+Wire Wire Line
+	4100 5100 4100 4450
+Wire Wire Line
+	4100 4450 4600 4450
+Wire Wire Line
+	4600 4450 4600 3300
+Wire Wire Line
+	4600 3300 4300 3300
+Wire Wire Line
+	4300 5000 4000 5000
+Wire Wire Line
+	2500 5000 2500 5750
+Connection ~ 2500 5750
+Wire Wire Line
+	4000 5000 4000 5300
+Wire Wire Line
+	4000 5300 4900 5300
+Wire Wire Line
+	4900 5300 4900 5100
+Connection ~ 4000 5000
+Wire Wire Line
+	4000 5000 2500 5000
+Wire Wire Line
+	3800 5450 3800 5300
+$Comp
+L Device:R R1
+U 1 1 5FD60931
+P 4700 4150
+F 0 "R1" H 4770 4196 50  0000 L CNN
+F 1 "R" H 4770 4105 50  0000 L CNN
+F 2 "" V 4630 4150 50  0001 C CNN
+F 3 "~" H 4700 4150 50  0001 C CNN
+	1    4700 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5FD612A1
+P 4950 4150
+F 0 "R2" H 5020 4196 50  0000 L CNN
+F 1 "R" H 5020 4105 50  0000 L CNN
+F 2 "" V 4880 4150 50  0001 C CNN
+F 3 "~" H 4950 4150 50  0001 C CNN
+	1    4950 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4700 4000 4700 3700
+Connection ~ 4700 3700
+Wire Wire Line
+	4700 3700 4750 3700
+Wire Wire Line
+	4750 3700 4950 3700
+Wire Wire Line
+	4950 3700 4950 4000
+Connection ~ 4750 3700
+Wire Wire Line
+	4950 4300 4950 4450
+Wire Wire Line
+	4950 4450 4600 4450
+Connection ~ 4600 4450
+Wire Wire Line
+	4550 4400 4700 4400
+Wire Wire Line
+	4700 4400 4700 4300
+Connection ~ 4550 4400
+Wire Wire Line
+	4550 3000 4550 4400
+Wire Wire Line
+	4900 4900 5200 4900
+Wire Wire Line
+	4300 3200 5200 3200
 $EndSCHEMATC

@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name TasmoTree)(type Legacy)(uri ${KIPRJMOD}/TasmoTree.lib)(options "")(descr ""))
+  (lib (name TasmoTree-rescue)(type Legacy)(uri ${KIPRJMOD}/TasmoTree-rescue.lib)(options "")(descr ""))
 )

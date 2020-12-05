@@ -6,7 +6,7 @@ This project primarily contains the hardware considerations for a Tasmota-based 
 custom Christmas Tree design which has multiple "layers" or "tiers" which each support and hold parts of a miniature
 villiage.
 
-## Design Render:
+### Design Render:
 The finalized PCB render is shown here:
 ![front](https://github.com/engineerjoe440/TasmoTree/raw/main/TasmoTree/TasmoTree.png)
 ![front](https://github.com/engineerjoe440/TasmoTree/raw/main/TasmoTree/TasmoTree_back.png)

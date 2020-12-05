@@ -7,14 +7,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Ebene_1"
-   data-name="Ebene 1"
-   viewBox="0 0 230 385.00001"
-   version="1.1"
-   sodipodi:docname="TasmoTree.svg"
-   width="230"
+   inkscape:export-ydpi="55.643799"
+   inkscape:export-xdpi="55.643799"
+   inkscape:export-filename="D:\Files\Stanley Solutions\TasmoTree\Logo\TasmoTree.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    height="385"
-   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
+   width="230"
+   sodipodi:docname="TasmoTree.svg"
+   version="1.1"
+   viewBox="0 0 230 385.00001"
+   data-name="Ebene 1"
+   id="Ebene_1">
   <metadata
      id="metadata29">
     <rdf:RDF>
@@ -28,25 +31,26 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     id="namedview27"
-     showgrid="false"
-     inkscape:zoom="1.158914"
-     inkscape:cx="218.19239"
-     inkscape:cy="185.27178"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="Ebene_1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Ebene_1" />
+     inkscape:window-y="-8"
+     inkscape:window-x="1432"
+     inkscape:cy="185.27178"
+     inkscape:cx="218.19239"
+     inkscape:zoom="1.158914"
+     showgrid="false"
+     id="namedview27"
+     inkscape:window-height="837"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs4">
     <style
@@ -55,53 +59,53 @@
   <title
      id="title6">Zeichenfläche 1</title>
   <polygon
-     class="cls-1"
-     points="44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 129.62,29.87 "
+     transform="translate(-14.615,175.32765)"
      id="polygon8"
-     transform="translate(-14.615,175.32765)" />
+     points="44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 129.62,29.87 "
+     class="cls-1" />
   <path
-     class="cls-1"
+     id="path10"
      d="m 114.74698,265.32766 a 52.6,52.6 0 0 0 -18.739997,101.76 v -15.18 a 38.8,38.8 0 0 1 11.859997,-72.21 v 95.89 h 13.77 v -95.89 a 38.8,38.8 0 0 1 11.86,72.21 v 15.13 a 52.6,52.6 0 0 0 -18.75,-101.71 z"
-     id="path10" />
+     class="cls-1" />
   <polygon
-     class="cls-1"
-     points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
+     transform="translate(-14.615,140.41899)"
+     style="fill:#010101"
      id="polygon8-3"
-     style="fill:#010101"
-     transform="translate(-14.615,140.41899)" />
-  <polygon
-     class="cls-1"
      points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
+     class="cls-1" />
+  <polygon
+     transform="translate(-14.615,105.51033)"
+     style="fill:#010101"
      id="polygon8-6"
-     style="fill:#010101"
-     transform="translate(-14.615,105.51033)" />
-  <polygon
-     class="cls-1"
      points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
-     id="polygon8-7"
-     style="fill:#010101"
-     transform="translate(-14.615,70.601671)" />
+     class="cls-1" />
   <polygon
-     class="cls-1"
-     points="214.81,115.07 129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 "
-     id="polygon8-5"
+     transform="translate(-14.615,70.601671)"
      style="fill:#010101"
-     transform="translate(-14.615,35.693011)" />
+     id="polygon8-7"
+     points="129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 214.81,115.07 "
+     class="cls-1" />
+  <polygon
+     transform="translate(-14.615,35.693011)"
+     style="fill:#010101"
+     id="polygon8-5"
+     points="214.81,115.07 129.62,29.87 44.42,115.07 54.16,124.8 129.62,49.35 205.07,124.8 "
+     class="cls-1" />
   <path
-     sodipodi:type="star"
-     style="fill:#000000;stroke-width:0"
-     id="path887"
-     sodipodi:sides="5"
-     sodipodi:cx="114.39929"
-     sodipodi:cy="46.846123"
-     sodipodi:r1="37.453381"
-     sodipodi:r2="10.437201"
-     sodipodi:arg1="-0.34650942"
-     sodipodi:arg2="0.24784554"
-     inkscape:flatsided="false"
-     inkscape:rounded="0"
-     inkscape:randomized="0"
-     inkscape:transform-center-x="0.37434669"
+     d="M 149.62659,34.126327 124.51757,49.406534 137.38237,76.418641 115.09091,57.260383 93.376318,77.84274 104.70847,50.722078 78.423301,36.430568 l 29.295109,2.396767 5.46947,-29.4149965 6.77323,28.6019455 z"
      inkscape:transform-center-y="-3.2185836"
-     d="M 149.62659,34.126327 124.51757,49.406534 137.38237,76.418641 115.09091,57.260383 93.376318,77.84274 104.70847,50.722078 78.423301,36.430568 l 29.295109,2.396767 5.46947,-29.4149965 6.77323,28.6019455 z" />
+     inkscape:transform-center-x="0.37434669"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="false"
+     sodipodi:arg2="0.24784554"
+     sodipodi:arg1="-0.34650942"
+     sodipodi:r2="10.437201"
+     sodipodi:r1="37.453381"
+     sodipodi:cy="46.846123"
+     sodipodi:cx="114.39929"
+     sodipodi:sides="5"
+     id="path887"
+     style="fill:#000000;stroke-width:0"
+     sodipodi:type="star" />
 </svg>

@@ -166,9 +166,9 @@ Wire Wire Line
 Connection ~ 950  2300
 Wire Wire Line
 	950  2300 950  3200
-Text Label 950  1650 0    30   ~ 0
+Text Label 950  1700 0    30   ~ 0
 12V
-Text Label 1150 1650 0    30   ~ 0
+Text Label 1150 1700 0    30   ~ 0
 32V
 Connection ~ 5850 6300
 Wire Wire Line

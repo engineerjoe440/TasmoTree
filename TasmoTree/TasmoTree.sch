@@ -110,7 +110,7 @@ Wire Wire Line
 Wire Wire Line
 	5850 7300 5850 6800
 $Comp
-L TasmoTree:LED-DRIVER U5
+L TasmoTree-rescue:LED-DRIVER-TasmoTree U5
 U 1 1 5FC8124B
 P 5650 1650
 F 0 "U5" H 5650 1715 50  0000 C CNN
@@ -236,7 +236,7 @@ Connection ~ 8000 5550
 Wire Wire Line
 	8000 5550 8000 5950
 $Comp
-L TasmoTree:LED-DRIVER U4
+L TasmoTree-rescue:LED-DRIVER-TasmoTree U4
 U 1 1 5FC7CA67
 P 5650 2750
 F 0 "U4" H 5650 2815 50  0000 C CNN
@@ -247,7 +247,7 @@ F 3 "" H 5600 2800 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TasmoTree:LED-DRIVER U3
+L TasmoTree-rescue:LED-DRIVER-TasmoTree U3
 U 1 1 5FC82B1A
 P 5650 3800
 F 0 "U3" H 5650 3865 50  0000 C CNN

@@ -22,9 +22,9 @@ jobs:
         # optional - prefix to output defined in config
           dir: docs
         # optional - schematic file
-          schema: '*.sch'
+          schema: 'TasmoTree/*.sch'
         # optional - PCB design file
-          board: '*.kicad_pcb'
+          board: 'TasmoTree/*.kicad_pcb'
         # optional - verbose output info
           verbose: 1
       - name: upload results

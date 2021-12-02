@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run exporter
       run: |
-        make -C pcb_main help
+        make -C TasmoTree help
     
     - name: Retrieve results
       uses: actions/upload-artifact@v1

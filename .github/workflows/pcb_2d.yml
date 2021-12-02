@@ -10,7 +10,7 @@ on:
       - '**.sch'
       - '**.kicad_pcb'
 
-job:
+jobs:
   build:
     runs-on: ubuntu-latest
     container: setsoft/kicad_auto:latest

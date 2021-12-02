@@ -1,0 +1,27 @@
+name: Render-KiCAD
+
+on:
+  push:
+    paths:
+    - '**.sch'
+    - '**.kicad_pcb'
+  pull_request:
+    paths:
+      - '**.sch'
+      - '**.kicad_pcb'
+
+job:
+  build:
+    runs-on: ubuntu-latest
+    container: setsoft/kicad_auto:latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run exporter
+      run: |
+        make -C pcb_main help
+    
+    - name: Retrieve results
+      uses: actions/upload-artifact@v1
+      with:
+        name: FabSch_Output
+        path: Fabrication
